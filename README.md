@@ -1,6 +1,24 @@
-Template escolhido para criação dessa página - https://startbootstrap.com/template-overviews/resume/
-Mais opções se preferir - https://startbootstrap.com/themes/
+### Languages
 
-Depois de fazer o download, é necessário que a pasta seja descompactada. Você poderá editar em seu editor de texto favorito os arquivos "index.html" e o css "css/resume.min.css"
+- HTML
+- CSS
+- JavaScript
+- SCSS
 
-Se quiser mais detalhes favor conferir o passo a passo no https://medium.com/p/8d4b8c3ba138
+### About the Portfolio's Building
+
+I've chosen this template to create my page: https://startbootstrap.com/template-overviews/resume/.
+
+If you don't like this template, there are other options here: https://startbootstrap.com/themes/.
+
+Once you have downloaded the template, extract the zip files to your computer.
+
+##
+
+This portfolio page structure was developed by [Diego Lopes](https://github.com/lopesdiego12/portfolio)
+
+
+
+
+
+
